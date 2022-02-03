@@ -1,4 +1,4 @@
-## Reynard Fox
+## Reynard the Fox
 
 I am a data engineer with 8 years of transportation payment experience in New York City. I enjoy using data to create programs that transform lives. When I'm not working I'm outside running marathons or hiking trails. 
 
