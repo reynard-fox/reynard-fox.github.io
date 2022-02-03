@@ -15,11 +15,11 @@ About Me
 
 
 Resume
-> Add thin
+> Add 1-page resume
 
 
 Certifications & Awards
-> Add Datacamp certs
+> Datacamp
 
 
 Other...
