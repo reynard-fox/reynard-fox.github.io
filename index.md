@@ -19,7 +19,6 @@ I am a data engineer with 8 years of transportation and payment experience in Ne
 * Skills: SQL, R, Python, Excel
 * Resume (coming soon)
 
-<details><summary>Certifications</summary>
 
   | Name | Description | Certificate ID and Link |
   | -------- | -------- | -------- |
@@ -30,5 +29,5 @@ I am a data engineer with 8 years of transportation and payment experience in Ne
   | SQL Fundamentals | 5 courses <br>21 hours | [DataCamp <br>ID f1897e100d3f72e6690fdc4f7a633e569a6ec88f](https://www.datacamp.com/statement-of-accomplishment/track/f1897e100d3f72e6690fdc4f7a633e569a6ec88f) |
   | SQL for Business Analysts | 5 courses <br>20 hours | [DataCamp <br>ID e5017dad3d9e149153b4cf694184aedb29178020](https://www.datacamp.com/statement-of-accomplishment/track/e5017dad3d9e149153b4cf694184aedb29178020) |
   
-</details>
+
   
