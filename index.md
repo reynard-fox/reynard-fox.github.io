@@ -20,7 +20,7 @@ A data engineer with 8 years of transportation and payment experience in New Yor
 * Resume *(coming soon)*
 
 ### Certifications
-<!-- I used a non-breaking space " " between ID and teh rest of the ID code -->
+<!-- I used a non-breaking space " " between ID and the rest of the ID code -->
 
   | Name | Description | Certificate ID and Link |
   | --------- | --- | --------------------------------------------------------------- |
