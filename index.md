@@ -19,7 +19,7 @@ A data engineer with 8 years of transportation and payment experience in New Yor
 * Skills: SQL, R, Python, Excel
 * Resume *(coming soon...)*
 
-### Certifications -te
+### Certifications -t
 
   | Name | Description | Certificate ID and Link |
   | --- | --- | --- |
