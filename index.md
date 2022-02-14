@@ -4,20 +4,20 @@ A data engineer with 8 years of transportation and payment experience in New Yor
 
 
 ## Large Projects
-*Coming soon...*
+*Coming soon*
 
 
 ## Small Projects
 - [Rule backup](https://github.com/reynard-fox/archive_tlc_rules/blob/280a4fde7764d04cc48e5d00b81f6bb6b3bc5132/TLC_Rule_Archive_HTML.md) 
 - Open Data  *(coming soon)*
-- Other...
+- *Others coming soon*
 
 
 ## About Me
 * [LinkedIn](https://www.linkedin.com/in/michael-anderson-analytics/)
 * [GitHub](https://github.com/reynard-fox)
 * Skills: SQL, R, Python, Excel
-* Resume *(coming soon...)*
+* Resume *(coming soon)*
 
 ### Certifications
 
