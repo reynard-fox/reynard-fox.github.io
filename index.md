@@ -1,6 +1,6 @@
 # Reynard the Fox
 
-A data engineer with 8 years of transportation and payment experience in New York City, I enjoy using data to answer novel questions. When not working I'm outside running marathons or hiking. 
+A data analyst and engineer with 8 years of transportation and payment experience in New York City, I enjoy using data to answer novel questions. When not working I'm outside running marathons or hiking. 
 
 
 ## Larger Projects
