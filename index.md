@@ -3,13 +3,12 @@
 A data engineer with 8 years of transportation and payment experience in New York City, I enjoy using data to answer novel questions. When not working I'm outside running marathons or hiking. 
 
 
-## Large Projects
+## Larger Projects
 - Open Data Asset Summary (https://htmlpreview.github.io/?https://github.com/reynard-fox/open_data_asset_summary/blob/main/Open-Data-v1.html)
 
 
-## Small Projects
-- [Rule backup](https://github.com/reynard-fox/archive_tlc_rules/blob/280a4fde7764d04cc48e5d00b81f6bb6b3bc5132/TLC_Rule_Archive_HTML.md) 
-- Open Data  *(coming soon)*
+## Smaller Projects
+- [Rule backup](https://github.com/reynard-fox/archive_tlc_rules/blob/280a4fde7764d04cc48e5d00b81f6bb6b3bc5132/TLC_Rule_Archive_HTML.md)
 - *Others coming soon*
 
 
