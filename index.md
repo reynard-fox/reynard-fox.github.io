@@ -4,7 +4,7 @@ A data engineer with 8 years of transportation and payment experience in New Yor
 
 
 ## Larger Projects
-- Open Data Asset Summary (https://htmlpreview.github.io/?https://github.com/reynard-fox/open_data_asset_summary/blob/main/Open-Data-v1.html)
+- [Open Data Asset Summary](https://htmlpreview.github.io/?https://github.com/reynard-fox/open_data_asset_summary/blob/main/Open-Data-v1.html)
 
 
 ## Smaller Projects
