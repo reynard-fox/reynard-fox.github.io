@@ -1,6 +1,6 @@
 # Michael Anderson
 
-A data analyst and sometime engineer with 8 years of transportation and payment experience in New York City, I enjoy using data to answer novel (and sometimes silly) questions. I mainly use R and SQL. When not working I'm outside running marathons or hiking. 
+A data analyst and sometime engineer with 8 years of transportation and payment experience in New York City, I mainly use R and SQL to answer novel (and sometimes trivial) questions. When not working I'm outside running marathons or hiking. 
 
 
 ## Larger Projects
