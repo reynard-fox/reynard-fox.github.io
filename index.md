@@ -8,7 +8,9 @@ A data analyst and sometime engineer with 8 years of transportation and payment 
 
 
 ## Smaller Projects
-- [Rule backup](https://github.com/reynard-fox/archive_tlc_rules/blob/280a4fde7764d04cc48e5d00b81f6bb6b3bc5132/TLC_Rule_Archive_HTML.md)
+- A script to [back up TLC rules](https://github.com/reynard-fox/archive_tlc_rules/blob/280a4fde7764d04cc48e5d00b81f6bb6b3bc5132/TLC_Rule_Archive_HTML.md).
+- A start-to-finish [diagram of a project](https://github.com/reynard-fox/bounced_payment_project) my team and I completed in the Summer of 2019.
+- Some work on [in-demand skills for New York City Government jobs](https://github.com/reynard-fox/open_data_job_postings). 
 - *Others coming soon*
 
 
